@@ -1,5 +1,7 @@
 # motoadapt
 
+**Documentation:** [https://guykopa.github.io/motoadapt/](https://guykopa.github.io/motoadapt/)
+
 Adaptive engine for motor rehabilitation exercises.
 
 Automatically adjusts exercise difficulty based on patient performance using a sliding window algorithm over the last 3 responses. No database, no framework, no frontend — pure PHP 8.2, strict TDD, strict SOLID.
