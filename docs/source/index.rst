@@ -19,3 +19,4 @@ Pure PHP 8.2, strict TDD, strict SOLID.
    services
    testing
    usage
+   ci
