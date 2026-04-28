@@ -1,0 +1,24 @@
+{
+    "name": "motoadapt/motoadapt",
+    "description": "Adaptive engine for motor rehabilitation exercises",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "config": {
+        "vendor-dir": ".venv"
+    },
+    "autoload": {
+        "psr-4": {
+            "Motoadapt\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Motoadapt\\Tests\\": "tests/"
+        }
+    }
+}

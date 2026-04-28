@@ -1,0 +1,29 @@
+# Claude
+CLAUDE.md
+ARCHITECTURE.md
+
+# Composer
+vendor/
+.venv/
+composer.lock
+
+# PHPUnit
+.phpunit.cache/
+.phpunit.result.cache
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sphinx
+docs/_build/
+.sphinx-venv/
+
+# Logs & temp
+*.log
+/tmp/
